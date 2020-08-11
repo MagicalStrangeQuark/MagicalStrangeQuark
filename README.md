@@ -15,10 +15,22 @@
 ```typescript
 return {
     name: "Wesley Flôres",
+    country: "Brazil",
+    state: "Rio Grande do Sul",
+    email: "wesleyfloresterres@gmail.com",
     projects: [
-        "ecommerce-laravel": { },
-        "Chess": { },
-        "project-euler": { }
+        "ecommerce-laravel": { 
+            "description": "E-Commerce Project Using the Laravel 7.20.0 Framework"
+        },
+        "Chess": { 
+            "description": "Development of a chess game using the javascript language"
+        },
+        "project-euler": { 
+            "description": "Repository containing the exercises developed within the Euler Project"
+        },
+        "JSON": {
+            "description": "Repository containing files in JSON format useful for the development of API's" 
+        }
     ]
 };
 
