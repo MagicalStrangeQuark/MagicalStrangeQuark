@@ -12,12 +12,14 @@
     <img src="https://img.shields.io/github/license/MagicalStrangeQuark/MagicalStrangeQuark"/>
 </p>
 
-```
+```typescript
 return {
     name: "Wesley Flôres",
-    projects: {
-
-    }
+    projects: [
+        "ecommerce-laravel": { },
+        "Chess": { },
+        "project-euler": { }
+    ]
 };
 
 ```
