@@ -18,18 +18,35 @@ return {
     country: "Brazil",
     state: "Rio Grande do Sul",
     email: "wesleyfloresterres@gmail.com",
+    languages: [
+        "PHP 7",
+        "Javascript"
+    ],
+    database: [
+        "PostgreSQL",
+        "MySQL"
+    ],
     projects: [
-        "ecommerce-laravel": { 
-            "description": "E-Commerce Project Using the Laravel 7.20.0 Framework"
-        },
         "Chess": { 
             "description": "Development of a chess game using the javascript language"
+        },
+        "docs": {
+            "description": "Documentation for the ecommerce project"
+        },
+        "ecommerce-laravel": { 
+            "description": "E-Commerce Project Using the Laravel 7.20.0 Framework"
         },
         "project-euler": { 
             "description": "Repository containing the exercises developed within the Euler Project"
         },
         "JSON": {
             "description": "Repository containing files in JSON format useful for the development of API's" 
+        },
+        "NLW2": {
+            "description": "Repository containing the application created in the second edition of the Rocketseat NLW event"
+        },
+        "scripts":{
+            "description": "Repository containing several useful scripts / small codes"
         }
     ]
 };
