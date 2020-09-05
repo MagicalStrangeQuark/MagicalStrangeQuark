@@ -20,7 +20,8 @@ return {
     email: "wesleyfloresterres@gmail.com",
     languages: [
         "PHP 7",
-        "Javascript"
+        "Javascript",
+        "C++"
     ],
     database: [
         "PostgreSQL",
@@ -28,25 +29,60 @@ return {
     ],
     projects: [
         "Chess": { 
-            "description": "Development of a chess game using the javascript language"
+            "description": "Development of a chess game using the javascript language",
+            "Url": "https://github.com/MagicalStrangeQuark/Chess"
         },
         "docs": {
-            "description": "Documentation for the ecommerce project"
+            "description": "Documentation for the ecommerce project",
+            "Url": "https://github.com/MagicalStrangeQuark/docs"
         },
         "ecommerce-laravel": { 
-            "description": "E-Commerce Project Using the Laravel 7.20.0 Framework"
+            "description": "E-Commerce Project Using the Laravel 7.20.0 Framework",
+            "Url": "https://github.com/MagicalStrangeQuark/ecommerce-laravel"
         },
         "project-euler": { 
-            "description": "Repository containing the exercises developed within the Euler Project"
+            "description": "Repository containing the exercises developed within the Euler Project",
+            "Url": "https://github.com/MagicalStrangeQuark/project-euler"
+        },
+        "EasyLearnServer": {
+            "description": "Server Development for the EasyLearn Project",
+            "Url": "https://github.com/MagicalStrangeQuark/EasyLearnServer"
+        },
+        "EasyLearnView": {
+            "description": "Application developed for the SWV Software selection process",
+            "Url": "https://github.com/MagicalStrangeQuark/EasyLearnView"
+        },
+        "ZCPE-ZCE": {
+            "description": "ZCPE/ZCE Survival Guide",
+            "Url": "https://github.com/MagicalStrangeQuark/ZCPE-ZCE"
         },
         "JSON": {
-            "description": "Repository containing files in JSON format useful for the development of API's" 
+            "description": "Repository containing files in JSON format useful for the development of API's",
+            "Url": "https://github.com/MagicalStrangeQuark/JSON"
         },
         "NLW2": {
-            "description": "Repository containing the application created in the second edition of the Rocketseat NLW event"
+            "description": "Repository containing the application created in the second edition of the Rocketseat NLW event",
+            "Url": "https://github.com/MagicalStrangeQuark/NLW2"
         },
         "scripts":{
-            "description": "Repository containing several useful scripts / small codes"
+            "description": "Repository containing several useful scripts / small codes",
+            "Url": "https://github.com/MagicalStrangeQuark/scripts"
+        },
+        "ecommerce-adonis": {
+            "description": "Development of an Ecommerce Using the Adonis.js Framework",
+            "Url": "https://github.com/MagicalStrangeQuark/ecommerce-adonis"
+        },
+        "react-calculator": {
+            "description": "https://github.com/MagicalStrangeQuark/react-calculator",
+            "Url": "Development of a calculator using React + Jest"
+        },
+        "IonicProject": {
+            "description": "Development of an application using the Ionic Framework",
+            "Url": "https://github.com/MagicalStrangeQuark/IonicProject"
+        },
+        "QuarkHelper": {
+            "description": "PHP Helpers Repository",
+            "Url": "https://github.com/MagicalStrangeQuark/QuarkHelper"
         }
     ]
 };
