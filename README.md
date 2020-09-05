@@ -61,7 +61,7 @@ return {
             "Url": "https://github.com/MagicalStrangeQuark/JSON"
         },
         "NLW2": {
-            "description": "Repository containing the application created in the second edition of the Rocketseat NLW event",
+            "description": "Repository created for the second edition of the Rocketseat's NLW event",
             "Url": "https://github.com/MagicalStrangeQuark/NLW2"
         },
         "scripts":{
