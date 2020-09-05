@@ -49,7 +49,7 @@ return {
             "Url": "https://github.com/MagicalStrangeQuark/EasyLearnServer"
         },
         "EasyLearnView": {
-            "description": "Application developed for the SWV Software selection process",
+            "description": "View Development for the EasyLearn Project",
             "Url": "https://github.com/MagicalStrangeQuark/EasyLearnView"
         },
         "ZCPE-ZCE": {
