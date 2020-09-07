@@ -15,12 +15,15 @@
 ```typescript
 return {
     name: "Wesley Flôres",
+    description: "System Analysis and Development Student",
     country: "Brazil",
     state: "Rio Grande do Sul",
+    city: "Novo Hamburgo",
     email: "wesleyfloresterres@gmail.com",
     languages: [
         "PHP 7",
-        "Javascript",
+        "ECMAScript 2016",
+        "NodeJS",
         "C++"
     ],
     database: [
@@ -36,25 +39,25 @@ return {
             "description": "Documentation for the ecommerce project",
             "Url": "https://github.com/MagicalStrangeQuark/docs"
         },
-        "ecommerce-laravel": { 
-            "description": "E-Commerce Project Using the Laravel 7.20.0 Framework",
-            "Url": "https://github.com/MagicalStrangeQuark/ecommerce-laravel"
-        },
-        "project-euler": { 
-            "description": "Repository containing the exercises developed within the Euler Project",
-            "Url": "https://github.com/MagicalStrangeQuark/project-euler"
-        },
         "EasyLearnServer": {
             "description": "Server Development for the EasyLearn Project",
             "Url": "https://github.com/MagicalStrangeQuark/EasyLearnServer"
         },
         "EasyLearnView": {
-            "description": "View Development for the EasyLearn Project",
+            "description": "Development of an React application for EasyLearn",
             "Url": "https://github.com/MagicalStrangeQuark/EasyLearnView"
         },
-        "ZCPE-ZCE": {
-            "description": "ZCPE/ZCE Survival Guide",
-            "Url": "https://github.com/MagicalStrangeQuark/ZCPE-ZCE"
+        "ecommerce-adonis": {
+            "description": "Development of an Ecommerce Using the Adonis.js Framework",
+            "Url": "https://github.com/MagicalStrangeQuark/ecommerce-adonis"
+        },
+        "ecommerce-laravel": { 
+            "description": "E-Commerce Project Using the Laravel 7.20.0 Framework",
+            "Url": "https://github.com/MagicalStrangeQuark/ecommerce-laravel"
+        },
+        "IonicProject": {
+            "description": "Development of an application using the Ionic Framework",
+            "Url": "https://github.com/MagicalStrangeQuark/IonicProject"
         },
         "JSON": {
             "description": "Repository containing files in JSON format useful for the development of API's",
@@ -64,25 +67,25 @@ return {
             "description": "Repository created for the second edition of the Rocketseat's NLW event",
             "Url": "https://github.com/MagicalStrangeQuark/NLW2"
         },
-        "scripts":{
-            "description": "Repository containing several useful scripts / small codes",
-            "Url": "https://github.com/MagicalStrangeQuark/scripts"
+        "project-euler": { 
+            "description": "Repository containing the exercises developed within the Euler Project",
+            "Url": "https://github.com/MagicalStrangeQuark/project-euler"
         },
-        "ecommerce-adonis": {
-            "description": "Development of an Ecommerce Using the Adonis.js Framework",
-            "Url": "https://github.com/MagicalStrangeQuark/ecommerce-adonis"
+        "QuarkHelper": {
+            "description": "PHP Helpers Repository",
+            "Url": "https://github.com/MagicalStrangeQuark/QuarkHelper"
         },
         "react-calculator": {
             "description": "https://github.com/MagicalStrangeQuark/react-calculator",
             "Url": "Development of a calculator using React + Jest"
         },
-        "IonicProject": {
-            "description": "Development of an application using the Ionic Framework",
-            "Url": "https://github.com/MagicalStrangeQuark/IonicProject"
+        "scripts":{
+            "description": "Repository containing several useful scripts / small codes",
+            "Url": "https://github.com/MagicalStrangeQuark/scripts"
         },
-        "QuarkHelper": {
-            "description": "PHP Helpers Repository",
-            "Url": "https://github.com/MagicalStrangeQuark/QuarkHelper"
+        "ZCPE-ZCE": {
+            "description": "ZCPE/ZCE Survival Guide",
+            "Url": "https://github.com/MagicalStrangeQuark/ZCPE-ZCE"
         }
     ]
 };
