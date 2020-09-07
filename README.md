@@ -39,6 +39,10 @@ return {
             "description": "Documentation for the ecommerce project",
             "Url": "https://github.com/MagicalStrangeQuark/docs"
         },
+        "DDD": {
+            "description": "Domain Driven Development Study Repository",
+            "Url": "https://github.com/MagicalStrangeQuark/DDD"
+        },
         "EasyLearnServer": {
             "description": "Server Development for the EasyLearn Project",
             "Url": "https://github.com/MagicalStrangeQuark/EasyLearnServer"
@@ -82,6 +86,10 @@ return {
         "scripts":{
             "description": "Repository containing several useful scripts / small codes",
             "Url": "https://github.com/MagicalStrangeQuark/scripts"
+        },
+        "SOLID": {
+            "description": "SOLID Pattern Study Repository",
+            "Url": "https://github.com/MagicalStrangeQuark/SOLID"
         },
         "ZCPE-ZCE": {
             "description": "ZCPE/ZCE Survival Guide",
