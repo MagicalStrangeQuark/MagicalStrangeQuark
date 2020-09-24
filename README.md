@@ -31,33 +31,48 @@ return {
         "MySQL"
     ],
     projects: [
+        "Zaflon": {
+            "app": { 
+                "description": "E-Commerce Project Using the Laravel 7.20.0 Framework",
+                "Url": "https://github.com/Zaflon/app"
+            },
+            "docs": {
+                "description": "Documentation for the ecommerce project",
+                "Url": "https://github.com/Zaflon/docs"
+            }
+        },
+        "EasyLearnApp": {
+            "EasyLearnServer": {
+                "description": "Server Development for the EasyLearn Project",
+                "Url": "https://github.com/EasyLearnApp/EasyLearnServer"
+            },
+            "EasyLearnView": {
+                "description": "Development of an React application for EasyLearn",
+                "Url": "https://github.com/EasyLearnApp/EasyLearnView"
+            }
+        },
+        "Wepset": {
+            "view": {
+                "Url": "https://github.com/Wepset/view"
+            },
+            "server": {
+                "Url": "https://github.com/Wepset/server"
+            },
+            "docs": {
+                "Url": "https://github.com/Wepset/docs"
+            }
+        },
         "Chess": { 
             "description": "Development of a chess game using the javascript language",
             "Url": "https://github.com/MagicalStrangeQuark/Chess"
-        },
-        "docs": {
-            "description": "Documentation for the ecommerce project",
-            "Url": "https://github.com/MagicalStrangeQuark/docs"
         },
         "DDD": {
             "description": "Domain Driven Development Study Repository",
             "Url": "https://github.com/MagicalStrangeQuark/DDD"
         },
-        "EasyLearnServer": {
-            "description": "Server Development for the EasyLearn Project",
-            "Url": "https://github.com/MagicalStrangeQuark/EasyLearnServer"
-        },
-        "EasyLearnView": {
-            "description": "Development of an React application for EasyLearn",
-            "Url": "https://github.com/MagicalStrangeQuark/EasyLearnView"
-        },
         "ecommerce-adonis": {
             "description": "Development of an Ecommerce Using the Adonis.js Framework",
             "Url": "https://github.com/MagicalStrangeQuark/ecommerce-adonis"
-        },
-        "ecommerce-laravel": { 
-            "description": "E-Commerce Project Using the Laravel 7.20.0 Framework",
-            "Url": "https://github.com/MagicalStrangeQuark/ecommerce-laravel"
         },
         "IonicProject": {
             "description": "Development of an application using the Ionic Framework",
