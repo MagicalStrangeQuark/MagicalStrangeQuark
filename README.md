@@ -30,6 +30,12 @@ return {
         "PostgreSQL",
         "MySQL"
     ],
+    repositories: [
+        "EasyLearnApp",
+        "MagicalStrangeQuark",
+        "Wepset",
+        "Zaflon"
+    ],
     projects: [
         "Zaflon": {
             "app": { 
@@ -62,53 +68,75 @@ return {
                 "Url": "https://github.com/Wepset/docs"
             }
         },
-        "Chess": { 
-            "description": "Development of a chess game using the javascript language",
-            "Url": "https://github.com/MagicalStrangeQuark/Chess"
-        },
-        "DDD": {
-            "description": "Domain Driven Development Study Repository",
-            "Url": "https://github.com/MagicalStrangeQuark/DDD"
-        },
-        "ecommerce-adonis": {
-            "description": "Development of an Ecommerce Using the Adonis.js Framework",
-            "Url": "https://github.com/MagicalStrangeQuark/ecommerce-adonis"
-        },
-        "IonicProject": {
-            "description": "Development of an application using the Ionic Framework",
-            "Url": "https://github.com/MagicalStrangeQuark/IonicProject"
-        },
-        "JSON": {
-            "description": "Repository containing files in JSON format useful for the development of API's",
-            "Url": "https://github.com/MagicalStrangeQuark/JSON"
-        },
-        "NLW2": {
-            "description": "Repository created for the second edition of the Rocketseat's NLW event",
-            "Url": "https://github.com/MagicalStrangeQuark/NLW2"
-        },
-        "project-euler": { 
-            "description": "Repository containing the exercises developed within the Euler Project",
-            "Url": "https://github.com/MagicalStrangeQuark/project-euler"
-        },
-        "QuarkHelper": {
-            "description": "PHP Helpers Repository",
-            "Url": "https://github.com/MagicalStrangeQuark/QuarkHelper"
-        },
-        "react-calculator": {
-            "description": "https://github.com/MagicalStrangeQuark/react-calculator",
-            "Url": "Development of a calculator using React + Jest"
-        },
-        "scripts":{
-            "description": "Repository containing several useful scripts / small codes",
-            "Url": "https://github.com/MagicalStrangeQuark/scripts"
-        },
-        "SOLID": {
-            "description": "SOLID Pattern Study Repository",
-            "Url": "https://github.com/MagicalStrangeQuark/SOLID"
-        },
-        "ZCPE-ZCE": {
-            "description": "ZCPE/ZCE Survival Guide",
-            "Url": "https://github.com/MagicalStrangeQuark/ZCPE-ZCE"
+        "MagicalStrangeQuark": {
+            "Blog": {
+                "description": "Development of a blog project using Laravel VIII",
+                "Url": "https://github.com/MagicalStrangeQuark/Blog"
+            },
+            "Box": {
+                "description": "Development of a modal using Bootstrap 4",
+                "Url": "https://github.com/MagicalStrangeQuark/Box"
+            },
+            "BAS": {
+                "description": "Repository created for the storage of IGTI Bootcamp Files",
+                "Url": "https://github.com/MagicalStrangeQuark/BAS"
+            },
+            "Chess": {
+                "description": "Development of a chess game using the javascript language",
+                "Url": "https://github.com/MagicalStrangeQuark/Chess"
+            },
+            "DDD": {
+                "description": "Domain Driven Development Study Repository",
+                "Url": "https://github.com/MagicalStrangeQuark/DDD"
+            },
+            "ecommerce-adonis": {
+                "description": "Development of an Ecommerce Using the Adonis.js Framework",
+                "Url": "https://github.com/MagicalStrangeQuark/ecommerce-adonis"
+            },
+            "IonicProject": {
+                "description": "Development of an application using the Ionic Framework",
+                "Url": "https://github.com/MagicalStrangeQuark/IonicProject"
+            },
+            "JSON": {
+                "description": "Repository containing files in JSON format useful for the development of API's",
+                "Url": "https://github.com/MagicalStrangeQuark/JSON"
+            },
+            "MagicalStrangeQuark": {
+                "description": "Wesley Flôres | System Analysis and Development Student",
+                "Url": "https://github.com/MagicalStrangeQuark/MagicalStrangeQuark"
+            },
+            "NLW2": {
+                "description": "Repository created for the second edition of the Rocketseat's NLW event",
+                "Url": "https://github.com/MagicalStrangeQuark/NLW2"
+            },
+            "project-euler": {
+                "description": "Repository containing the exercises developed within the Euler Project",
+                "Url": "https://github.com/MagicalStrangeQuark/project-euler"
+            },
+            "QuarkHelper": {
+                "description": "PHP Helpers Repository",
+                "Url": "https://github.com/MagicalStrangeQuark/QuarkHelper"
+            },
+            "react-calculator": {
+                "description": "https://github.com/MagicalStrangeQuark/react-calculator",
+                "Url": "Development of a calculator using React + Jest"
+            },
+            "scripts": {
+                "description": "Repository containing several useful scripts / small codes",
+                "Url": "https://github.com/MagicalStrangeQuark/scripts"
+            },
+            "SOLID": {
+                "description": "SOLID Pattern Study Repository",
+                "Url": "https://github.com/MagicalStrangeQuark/SOLID"
+            },
+            "WallpaperRepository": {
+                "description": "Repository containing my wallpapers and images",
+                "Url": "https://github.com/MagicalStrangeQuark/WallpaperRepository"
+            },
+            "ZCPE-ZCE": {
+                "description": "ZCPE/ZCE Survival Guide",
+                "Url": "https://github.com/MagicalStrangeQuark/ZCPE-ZCE"
+            }
         }
     ]
 };
