@@ -109,6 +109,10 @@ return {
                 "description": "Repository created for the second edition of the Rocketseat's NLW event",
                 "Url": "https://github.com/MagicalStrangeQuark/NLW2"
             },
+            "NLW3": {
+                "description": "Repository created for the third edition of the Rocketseat's NLW event",
+                "Url": "https://github.com/MagicalStrangeQuark/NLW3"
+            },
             "project-euler": {
                 "description": "Repository containing the exercises developed within the Euler Project",
                 "Url": "https://github.com/MagicalStrangeQuark/project-euler"
