@@ -93,6 +93,10 @@ return {
                 "description": "Development of an Ecommerce Using the Adonis.js Framework",
                 "Url": "https://github.com/MagicalStrangeQuark/ecommerce-adonis"
             },
+            "FAQ": {
+                "description": "Development of a Chatbot using Vanilla HTML",
+                "Url": "https://github.com/MagicalStrangeQuark/FAQ"
+            },
             "IonicProject": {
                 "description": "Development of an application using the Ionic Framework",
                 "Url": "https://github.com/MagicalStrangeQuark/IonicProject"
