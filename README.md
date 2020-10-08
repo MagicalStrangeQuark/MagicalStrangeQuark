@@ -27,7 +27,7 @@ return {
         "NodeJS",
         "C++"
     ],
-    database: [
+    databases: [
         "PostgreSQL",
         "MySQL",
         "MongoDB",
