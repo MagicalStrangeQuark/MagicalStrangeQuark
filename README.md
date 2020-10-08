@@ -23,12 +23,15 @@ return {
     languages: [
         "PHP 7",
         "ECMAScript 2016",
+        "Typescript",
         "NodeJS",
         "C++"
     ],
     database: [
         "PostgreSQL",
-        "MySQL"
+        "MySQL",
+        "MongoDB",
+        "Redis"
     ],
     repositories: [
         "EasyLearnApp",
@@ -69,6 +72,10 @@ return {
             }
         },
         "MagicalStrangeQuark": {
+            "BAS": {
+                "description": "Repository created for the storage of IGTI Bootcamp Files",
+                "Url": "https://github.com/MagicalStrangeQuark/BAS"
+            },
             "Blog": {
                 "description": "Development of a blog project using Laravel VIII",
                 "Url": "https://github.com/MagicalStrangeQuark/Blog"
@@ -76,10 +83,6 @@ return {
             "Box": {
                 "description": "Development of a modal using Bootstrap 4",
                 "Url": "https://github.com/MagicalStrangeQuark/Box"
-            },
-            "BAS": {
-                "description": "Repository created for the storage of IGTI Bootcamp Files",
-                "Url": "https://github.com/MagicalStrangeQuark/BAS"
             },
             "Chess": {
                 "description": "Development of a chess game using the javascript language",
