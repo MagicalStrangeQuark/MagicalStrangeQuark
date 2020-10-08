@@ -89,6 +89,10 @@ return {
                 "description": "Domain Driven Development Study Repository",
                 "Url": "https://github.com/MagicalStrangeQuark/DDD"
             },
+            "DockerPHPHelloWorld": {
+                "description": "Sample PHP Hello World app with Docker",
+                "Url": "https://github.com/MagicalStrangeQuark/DockerPHPHelloWorld"
+            },
             "ecommerce-adonis": {
                 "description": "Development of an Ecommerce Using the Adonis.js Framework",
                 "Url": "https://github.com/MagicalStrangeQuark/ecommerce-adonis"
@@ -108,6 +112,10 @@ return {
             "MagicalStrangeQuark": {
                 "description": "Wesley Flôres | System Analysis and Development Student",
                 "Url": "https://github.com/MagicalStrangeQuark/MagicalStrangeQuark"
+            },
+            "MongoDB": {
+                "description": "Repository containing the queries developed in MongoDB",
+                "Url": "https://github.com/MagicalStrangeQuark/MongoDB"
             },
             "NLW2": {
                 "description": "Repository created for the second edition of the Rocketseat's NLW event",
