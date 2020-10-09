@@ -120,6 +120,10 @@ return {
                 "description": "Repository containing the queries developed in MongoDB",
                 "Url": "https://github.com/MagicalStrangeQuark/MongoDB"
             },
+            "MySQL": {
+                "description": "Repository containing the queries developed in MySQL",
+                "Url": "https://github.com/MagicalStrangeQuark/MySQL"
+            },
             "NLW2": {
                 "description": "Repository created for the second edition of the Rocketseat's NLW event",
                 "Url": "https://github.com/MagicalStrangeQuark/NLW2"
@@ -127,6 +131,10 @@ return {
             "NLW3": {
                 "description": "Repository created for the third edition of the Rocketseat's NLW event",
                 "Url": "https://github.com/MagicalStrangeQuark/NLW3"
+            },
+            "PostgreSQL": {
+                "description": "Repository containing the queries developed in PostgreSQL",
+                "Url": "https://github.com/MagicalStrangeQuark/PostgreSQL"
             },
             "project-euler": {
                 "description": "Repository containing the exercises developed within the Euler Project",
