@@ -112,6 +112,10 @@ return {
                 "description": "Repository containing files in JSON format useful for the development of API's",
                 "Url": "https://github.com/MagicalStrangeQuark/JSON"
             },
+            "Linux": {
+                "description": "Study repository of GNU/Linux",
+                "Url": "https://github.com/MagicalStrangeQuark/Linux"
+            },
             "MagicalStrangeQuark": {
                 "description": "Wesley Flôres | System Analysis and Development Student",
                 "Url": "https://github.com/MagicalStrangeQuark/MagicalStrangeQuark"
