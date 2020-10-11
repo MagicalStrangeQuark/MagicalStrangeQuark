@@ -42,7 +42,7 @@ return {
     projects: [
         "Zaflon": {
             "app": { 
-                "description": "E-Commerce Project Using the Laravel 7.20.0 Framework",
+                "description": "E-Commerce Project Using the Laravel 8.9.0 Framework",
                 "Url": "https://github.com/Zaflon/app"
             },
             "docs": {
