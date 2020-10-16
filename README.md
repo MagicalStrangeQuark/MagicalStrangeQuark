@@ -62,6 +62,7 @@ return {
         },
         "Wepset": {
             "view": {
+                "description": "Development of the front-end screen for the project",
                 "Url": "https://github.com/Wepset/view"
             },
             "server": {
