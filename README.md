@@ -71,6 +71,20 @@ return {
                 "Url": "https://github.com/Wepset/docs"
             }
         },
+        "Fidrina": {
+            "Login": {
+                "description": "Development of a login screen using Vanilla HTML",
+                "Url": "https://github.com/Fidrina/Login"
+            },
+            "FAQ": {
+                "description": "Development of a Chatbot using Vanilla HTML",
+                "Url": "https://github.com/Fidrina/FAQ"
+            },
+            "Box": {
+                "description": "Development of a modal using Bootstrap 4",
+                "Url": "https://github.com/Fidrina/Box"
+            },
+        },
         "MagicalStrangeQuark": {
             "BAS": {
                 "description": "Repository created for the storage of IGTI Bootcamp Files",
@@ -79,10 +93,6 @@ return {
             "Blog": {
                 "description": "Development of a blog project using Laravel VIII",
                 "Url": "https://github.com/MagicalStrangeQuark/Blog"
-            },
-            "Box": {
-                "description": "Development of a modal using Bootstrap 4",
-                "Url": "https://github.com/MagicalStrangeQuark/Box"
             },
             "Chess": {
                 "description": "Development of a chess game using the javascript language",
@@ -99,10 +109,6 @@ return {
             "ecommerce-adonis": {
                 "description": "Development of an Ecommerce Using the Adonis.js Framework",
                 "Url": "https://github.com/MagicalStrangeQuark/ecommerce-adonis"
-            },
-            "FAQ": {
-                "description": "Development of a Chatbot using Vanilla HTML",
-                "Url": "https://github.com/MagicalStrangeQuark/FAQ"
             },
             "IonicProject": {
                 "description": "Development of an application using the Ionic Framework",
