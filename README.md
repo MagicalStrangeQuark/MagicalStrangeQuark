@@ -1,4 +1,4 @@
-<h1 align="center">Wesley Flôres | System Analysis and Development Student </h1>
+<h3 align="center">Wesley Flôres | System Analysis and Development Student</h3>
 
 <p align="center">
     <img src="https://img.shields.io/badge/wesleyfloresterres@gmail.com-orange?logo=Gmail&style=flat"/>
@@ -162,6 +162,10 @@ return {
             "react-calculator": {
                 "description": "https://github.com/MagicalStrangeQuark/react-calculator",
                 "Url": "Development of a calculator using React + Jest"
+            },
+            "Renderer": {
+                "description": "Simple HTML Component Renderer Using PHP7 and Vanilla HTML",
+                "Url": "https://github.com/MagicalStrangeQuark/Renderer"
             },
             "scripts": {
                 "description": "Repository containing several useful scripts / small codes",
