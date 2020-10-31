@@ -36,6 +36,7 @@ return {
     repositories: [
         "Adath",
         "EasyLearnApp",
+        "Fidrina",
         "MagicalStrangeQuark",
         "Wepset",
         "Zaflon"
@@ -59,16 +60,6 @@ return {
                 "Url": "https://github.com/MagicalStrangeQuark/PostgreSQL"
             },
         },
-        "Zaflon": {
-            "app": { 
-                "description": "E-Commerce Project Using the Laravel 8.9.0 Framework",
-                "Url": "https://github.com/Zaflon/app"
-            },
-            "docs": {
-                "description": "Documentation for the ecommerce project",
-                "Url": "https://github.com/Zaflon/docs"
-            }
-        },
         "EasyLearnApp": {
             "EasyLearnServer": {
                 "description": "Server Development for the EasyLearn Project",
@@ -77,18 +68,6 @@ return {
             "EasyLearnView": {
                 "description": "Development of an React application for EasyLearn",
                 "Url": "https://github.com/EasyLearnApp/EasyLearnView"
-            }
-        },
-        "Wepset": {
-            "view": {
-                "description": "Development of the front-end screen for the project",
-                "Url": "https://github.com/Wepset/view"
-            },
-            "server": {
-                "Url": "https://github.com/Wepset/server"
-            },
-            "docs": {
-                "Url": "https://github.com/Wepset/docs"
             }
         },
         "Fidrina": {
@@ -193,6 +172,28 @@ return {
             "ZCPE-ZCE": {
                 "description": "ZCPE/ZCE Survival Guide",
                 "Url": "https://github.com/MagicalStrangeQuark/ZCPE-ZCE"
+            }
+        },
+        "Wepset": {
+            "view": {
+                "description": "Development of the front-end screen for the project",
+                "Url": "https://github.com/Wepset/view"
+            },
+            "server": {
+                "Url": "https://github.com/Wepset/server"
+            },
+            "docs": {
+                "Url": "https://github.com/Wepset/docs"
+            }
+        },
+        "Zaflon": {
+            "app": { 
+                "description": "E-Commerce Project Using the Laravel 8.9.0 Framework",
+                "Url": "https://github.com/Zaflon/app"
+            },
+            "docs": {
+                "description": "Documentation for the ecommerce project",
+                "Url": "https://github.com/Zaflon/docs"
             }
         }
     ]
