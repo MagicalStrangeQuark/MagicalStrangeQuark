@@ -150,8 +150,8 @@ return {
                 "Url": "https://github.com/MagicalStrangeQuark/QuarkHelper"
             },
             "react-calculator": {
-                "description": "https://github.com/MagicalStrangeQuark/react-calculator",
-                "Url": "Development of a calculator using React + Jest"
+                "description": "Development of a calculator using React + Jest",
+                "Url": "https://github.com/MagicalStrangeQuark/react-calculator"
             },
             "Renderer": {
                 "description": "Simple HTML Component Renderer Using PHP7 and Vanilla HTML",
