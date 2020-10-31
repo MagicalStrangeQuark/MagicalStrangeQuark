@@ -1,4 +1,4 @@
-<h3 align="center">Wesley Flôres | System Analysis and Development Student</h3>
+<h1 align="center">Wesley Flôres | System Analysis and Development Student</h1>
 
 <p align="center">
     <img src="https://img.shields.io/badge/wesleyfloresterres@gmail.com-orange?logo=Gmail&style=flat"/>
@@ -34,12 +34,31 @@ return {
         "Redis"
     ],
     repositories: [
+        "Adath",
         "EasyLearnApp",
         "MagicalStrangeQuark",
         "Wepset",
         "Zaflon"
     ],
     projects: [
+        "Adath": {
+            "MongoDB": {
+                "description": "Repository containing the queries developed in MongoDB",
+                "Url": "https://github.com/MagicalStrangeQuark/MongoDB"
+            },
+            "MySQL": {
+                "description": "Repository containing the queries developed in MySQL",
+                "Url": "https://github.com/MagicalStrangeQuark/MySQL"
+            },
+            "Oracle": {
+                "description": "Repository containing the queries developed in Oracle",
+                "Url": "https://github.com/MagicalStrangeQuark/Oracle"
+            },
+            "PostgreSQL": {
+                "description": "Repository containing the queries developed in PostgreSQL",
+                "Url": "https://github.com/MagicalStrangeQuark/PostgreSQL"
+            },
+        },
         "Zaflon": {
             "app": { 
                 "description": "E-Commerce Project Using the Laravel 8.9.0 Framework",
@@ -131,13 +150,9 @@ return {
                 "description": "Wesley Flôres | System Analysis and Development Student",
                 "Url": "https://github.com/MagicalStrangeQuark/MagicalStrangeQuark"
             },
-            "MongoDB": {
-                "description": "Repository containing the queries developed in MongoDB",
-                "Url": "https://github.com/MagicalStrangeQuark/MongoDB"
-            },
-            "MySQL": {
-                "description": "Repository containing the queries developed in MySQL",
-                "Url": "https://github.com/MagicalStrangeQuark/MySQL"
+            "MagicalStrangeQuark.github.io": {
+                "description": "Github Pages",
+                "Url": "https://github.com/MagicalStrangeQuark/MagicalStrangeQuark.github.io"
             },
             "NLW2": {
                 "description": "Repository created for the second edition of the Rocketseat's NLW event",
@@ -146,10 +161,6 @@ return {
             "NLW3": {
                 "description": "Repository created for the third edition of the Rocketseat's NLW event",
                 "Url": "https://github.com/MagicalStrangeQuark/NLW3"
-            },
-            "PostgreSQL": {
-                "description": "Repository containing the queries developed in PostgreSQL",
-                "Url": "https://github.com/MagicalStrangeQuark/PostgreSQL"
             },
             "project-euler": {
                 "description": "Repository containing the exercises developed within the Euler Project",
