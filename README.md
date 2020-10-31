@@ -73,18 +73,22 @@ return {
             }
         },
         "Fidrina": {
-            "Login": {
-                "description": "Development of a login screen using Vanilla HTML",
-                "Url": "https://github.com/Fidrina/Login"
+            "Box": {
+                "description": "Development of a modal using Bootstrap 4",
+                "Url": "https://github.com/Fidrina/Box"
             },
             "FAQ": {
                 "description": "Development of a Chatbot using Vanilla HTML",
                 "Url": "https://github.com/Fidrina/FAQ"
             },
-            "Box": {
-                "description": "Development of a modal using Bootstrap 4",
-                "Url": "https://github.com/Fidrina/Box"
+            "Login": {
+                "description": "Development of a login screen using Vanilla HTML",
+                "Url": "https://github.com/Fidrina/Login"
             },
+            "SASS": {
+                "description": "Creating a simple docs of SASS",
+                "Url": "https://github.com/Fidrina/SASS" 
+            }
         },
         "MagicalStrangeQuark": {
             "BAS": {
