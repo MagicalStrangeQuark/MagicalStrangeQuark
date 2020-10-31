@@ -40,6 +40,7 @@ return {
         "MagicalStrangeQuark",
         "Weavous",
         "Wepset",
+        "Whopag",
         "Zaflon"
     ],
     projects: [
@@ -105,10 +106,6 @@ return {
             "DDD": {
                 "description": "Domain Driven Development Study Repository",
                 "Url": "https://github.com/MagicalStrangeQuark/DDD"
-            },
-            "DockerPHPHelloWorld": {
-                "description": "Sample PHP Hello World app with Docker",
-                "Url": "https://github.com/MagicalStrangeQuark/DockerPHPHelloWorld"
             },
             "ecommerce-adonis": {
                 "description": "Development of an Ecommerce Using the Adonis.js Framework",
@@ -187,6 +184,12 @@ return {
             },
             "docs": {
                 "Url": "https://github.com/Wepset/docs"
+            }
+        },
+        "Whopag": {
+            "Docker": {
+                "description": "Sample Docker docs",
+                "Url": "https://github.com/MagicalStrangeQuark/Docker"
             }
         },
         "Zaflon": {
