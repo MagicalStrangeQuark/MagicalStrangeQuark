@@ -38,6 +38,7 @@ return {
         "EasyLearnApp",
         "Fidrina",
         "MagicalStrangeQuark",
+        "Weavous",
         "Wepset",
         "Zaflon"
     ],
@@ -145,17 +146,9 @@ return {
                 "description": "Repository containing the exercises developed within the Euler Project",
                 "Url": "https://github.com/MagicalStrangeQuark/project-euler"
             },
-            "QuarkHelper": {
-                "description": "PHP Helpers Repository",
-                "Url": "https://github.com/MagicalStrangeQuark/QuarkHelper"
-            },
             "react-calculator": {
                 "description": "Development of a calculator using React + Jest",
                 "Url": "https://github.com/MagicalStrangeQuark/react-calculator"
-            },
-            "Renderer": {
-                "description": "Simple HTML Component Renderer Using PHP7 and Vanilla HTML",
-                "Url": "https://github.com/MagicalStrangeQuark/Renderer"
             },
             "scripts": {
                 "description": "Repository containing several useful scripts / small codes",
@@ -168,6 +161,16 @@ return {
             "WallpaperRepository": {
                 "description": "Repository containing my wallpapers and images",
                 "Url": "https://github.com/MagicalStrangeQuark/WallpaperRepository"
+            }
+        },
+        "Weavous": {
+            "QuarkHelper": {
+                "description": "PHP Helpers Repository",
+                "Url": "https://github.com/MagicalStrangeQuark/QuarkHelper"
+            },
+            "Renderer": {
+                "description": "Simple HTML Component Renderer Using PHP7 and Vanilla HTML",
+                "Url": "https://github.com/MagicalStrangeQuark/Renderer"
             },
             "ZCPE-ZCE": {
                 "description": "ZCPE/ZCE Survival Guide",
