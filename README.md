@@ -21,11 +21,11 @@ return {
     city: "Novo Hamburgo",
     email: "wesleyfloresterres@gmail.com",
     languages: [
-        "PHP 7",
+        "C/C++",
         "ECMAScript 2016",
-        "Typescript",
         "NodeJS",
-        "C++"
+        "PHP 7",
+        "Typescript"
     ],
     databases: [
         "PostgreSQL",
