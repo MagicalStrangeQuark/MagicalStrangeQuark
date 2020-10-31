@@ -190,6 +190,10 @@ return {
             "Docker": {
                 "description": "Sample Docker docs",
                 "Url": "https://github.com/MagicalStrangeQuark/Docker"
+            },
+            "DockerPHPHelloWorld": {
+                "description": "Sample PHP Hello World app with Docker",
+                "Url": "https://github.com/MagicalStrangeQuark/DockerPHPHelloWorld"
             }
         },
         "Zaflon": {
