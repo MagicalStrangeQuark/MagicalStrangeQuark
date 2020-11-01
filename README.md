@@ -104,7 +104,7 @@ return {
                 "Url": "https://github.com/MagicalStrangeQuark/Chess"
             },
             "DDD": {
-                "description": "Domain Driven Development Study Repository",
+                "description": "Domain Driven Design Study Repository",
                 "Url": "https://github.com/MagicalStrangeQuark/DDD"
             },
             "ecommerce-adonis": {
