@@ -31,6 +31,7 @@ return {
         "PostgreSQL",
         "MySQL",
         "MongoDB",
+        "SQLServer",
         "Redis"
     ],
     repositories: [
@@ -95,10 +96,6 @@ return {
                 "description": "Repository created for the storage of IGTI Bootcamp Files",
                 "Url": "https://github.com/MagicalStrangeQuark/BAS"
             },
-            "Blog": {
-                "description": "Development of a blog project using Laravel VIII",
-                "Url": "https://github.com/MagicalStrangeQuark/Blog"
-            },
             "Chess": {
                 "description": "Development of a chess game using the javascript language",
                 "Url": "https://github.com/MagicalStrangeQuark/Chess"
@@ -161,13 +158,25 @@ return {
             }
         },
         "Weavous": {
+            "Blog": {
+                "description": "Development of a blog project using Laravel VIII",
+                "Url": "https://github.com/Weavous/Blog"
+            },
             "QuarkHelper": {
                 "description": "PHP Helpers Repository",
-                "Url": "https://github.com/MagicalStrangeQuark/QuarkHelper"
+                "Url": "https://github.com/Weavous/QuarkHelper"
             },
             "Renderer": {
                 "description": "Simple HTML Component Renderer Using PHP7 and Vanilla HTML",
-                "Url": "https://github.com/MagicalStrangeQuark/Renderer"
+                "Url": "https://github.com/Weavous/Renderer"
+            },
+            "Scheduling": {
+                "description": "Development of an API for scheduling medical appointments",
+                "Url": "https://github.com/Weavous/Scheduling"
+            },
+            "SlimPHP": {
+                "description": "Repository containing an small API developed with Slim PHP",
+                "Url": "https://github.com/Weavous/SlimPHP"
             },
             "ZCPE-ZCE": {
                 "description": "ZCPE/ZCE Survival Guide",
