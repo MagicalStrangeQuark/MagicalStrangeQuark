@@ -48,20 +48,24 @@ return {
         "Adath": {
             "MongoDB": {
                 "description": "Repository containing the queries developed in MongoDB",
-                "Url": "https://github.com/MagicalStrangeQuark/MongoDB"
+                "Url": "https://github.com/Adath/MongoDB"
             },
             "MySQL": {
                 "description": "Repository containing the queries developed in MySQL",
-                "Url": "https://github.com/MagicalStrangeQuark/MySQL"
+                "Url": "https://github.com/Adath/MySQL"
             },
             "Oracle": {
                 "description": "Repository containing the queries developed in Oracle",
-                "Url": "https://github.com/MagicalStrangeQuark/Oracle"
+                "Url": "https://github.com/Adath/Oracle"
             },
             "PostgreSQL": {
                 "description": "Repository containing the queries developed in PostgreSQL",
-                "Url": "https://github.com/MagicalStrangeQuark/PostgreSQL"
+                "Url": "https://github.com/Adath/PostgreSQL"
             },
+            "SQLServer": {
+                "description": "Repository containing the queries developed in SQLServer",
+                "Url": "https://github.com/Adath/SQLServer"
+            }
         },
         "EasyLearnApp": {
             "EasyLearnServer": {
@@ -78,27 +82,61 @@ return {
                 "description": "Development of a modal using Bootstrap 4",
                 "Url": "https://github.com/Fidrina/Box"
             },
+            "Chess": {
+                "description": "Development of a chess game using the javascript language",
+                "Url": "https://github.com/Fidrina/Chess"
+            },
             "FAQ": {
                 "description": "Development of a Chatbot using Vanilla HTML",
                 "Url": "https://github.com/Fidrina/FAQ"
+            },
+            "IonicProject": {
+                "description": "Development of an application using the Ionic Framework",
+                "Url": "https://github.com/Fidrina/IonicProject"
             },
             "Login": {
                 "description": "Development of a login screen using Vanilla HTML",
                 "Url": "https://github.com/Fidrina/Login"
             },
+            "QRCode": {
+                "description": "Development of a QR Code generator in VueJS",
+                "Url": "https://github.com/Fidrina/QRCode"
+            },
+            "react-calculator": {
+                "description": "Development of a calculator using React + Jest",
+                "Url": "https://github.com/Fidrina/react-calculator"
+            },
+            "ReactCRUD": {
+                "description": "Simple CRUD Using ReactJS",
+                "Url": "https://github.com/Fidrina/ReactCRUD"
+            },
             "SASS": {
                 "description": "Creating a simple docs of SASS",
                 "Url": "https://github.com/Fidrina/SASS" 
+            },
+            "Smartphone": {
+                "description": "Development of a Smartphone using Vanilla HTML/JS",
+                "Url": "https://github.com/Fidrina/Smartphone"
+            }
+        },
+        "Gweyr": {
+            "CPP_001": {
+                "description": "Vanessa Lindemann - Algoritmos e Programação II, 2015",
+                "Url": "https://github.com/Gweyr/CPP_001"
+            },
+            "CPP_002": {
+                "description": "Jaime Evaristo - Aprendendo a Programar - Programando na Linguagem C - Para Iniciantes - 3° Edição",
+                "Url": "https://github.com/Gweyr/CPP_002"
+            },
+            "project-euler": {
+                "description": "Repository containing the exercises developed within the Euler Project",
+                "Url": "https://github.com/Gweyr/project-euler"
             }
         },
         "MagicalStrangeQuark": {
             "BAS": {
                 "description": "Repository created for the storage of IGTI Bootcamp Files",
                 "Url": "https://github.com/MagicalStrangeQuark/BAS"
-            },
-            "Chess": {
-                "description": "Development of a chess game using the javascript language",
-                "Url": "https://github.com/MagicalStrangeQuark/Chess"
             },
             "DDD": {
                 "description": "Domain Driven Design Study Repository",
@@ -107,10 +145,6 @@ return {
             "ecommerce-adonis": {
                 "description": "Development of an Ecommerce Using the Adonis.js Framework",
                 "Url": "https://github.com/MagicalStrangeQuark/ecommerce-adonis"
-            },
-            "IonicProject": {
-                "description": "Development of an application using the Ionic Framework",
-                "Url": "https://github.com/MagicalStrangeQuark/IonicProject"
             },
             "JSON": {
                 "description": "Repository containing files in JSON format useful for the development of API's",
@@ -135,14 +169,6 @@ return {
             "NLW3": {
                 "description": "Repository created for the third edition of the Rocketseat's NLW event",
                 "Url": "https://github.com/MagicalStrangeQuark/NLW3"
-            },
-            "project-euler": {
-                "description": "Repository containing the exercises developed within the Euler Project",
-                "Url": "https://github.com/MagicalStrangeQuark/project-euler"
-            },
-            "react-calculator": {
-                "description": "Development of a calculator using React + Jest",
-                "Url": "https://github.com/MagicalStrangeQuark/react-calculator"
             },
             "scripts": {
                 "description": "Repository containing several useful scripts / small codes",
@@ -180,7 +206,7 @@ return {
             },
             "ZCPE-ZCE": {
                 "description": "ZCPE/ZCE Survival Guide",
-                "Url": "https://github.com/MagicalStrangeQuark/ZCPE-ZCE"
+                "Url": "https://github.com/Weavous/ZCPE-ZCE"
             }
         },
         "Wepset": {
@@ -198,11 +224,11 @@ return {
         "Whopag": {
             "Docker": {
                 "description": "Sample Docker docs",
-                "Url": "https://github.com/MagicalStrangeQuark/Docker"
+                "Url": "https://github.com/Whopag/Docker"
             },
             "DockerPHPHelloWorld": {
                 "description": "Sample PHP Hello World app with Docker",
-                "Url": "https://github.com/MagicalStrangeQuark/DockerPHPHelloWorld"
+                "Url": "https://github.com/Whopag/DockerPHPHelloWorld"
             }
         },
         "Zaflon": {
