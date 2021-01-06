@@ -138,6 +138,10 @@ return {
                 "description": "Repository created for the storage of IGTI Bootcamp Files",
                 "Url": "https://github.com/MagicalStrangeQuark/BAS"
             },
+            "Chemistry": {
+                "description": "Chemistry Study",
+                "Url": "https://github.com/MagicalStrangeQuark/Chemistry"
+            },
             "DDD": {
                 "description": "Domain Driven Design Study Repository",
                 "Url": "https://github.com/MagicalStrangeQuark/DDD"
@@ -153,6 +157,10 @@ return {
             "Linux": {
                 "description": "Study repository of GNU/Linux",
                 "Url": "https://github.com/MagicalStrangeQuark/Linux"
+            },
+            "Loopback": {
+                "description": "Small study documentation of the NodeJS Loopback framework",
+                "Url": "https://github.com/MagicalStrangeQuark/Loopback"
             },
             "MagicalStrangeQuark": {
                 "description": "Wesley Flôres | System Analysis and Development Student",
@@ -170,6 +178,14 @@ return {
                 "description": "Repository created for the third edition of the Rocketseat's NLW event",
                 "Url": "https://github.com/MagicalStrangeQuark/NLW3"
             },
+            "Physics": {
+                "description": "Physics Study",
+                "Url": "https://github.com/MagicalStrangeQuark/Physics"
+            },
+            "reCAPTCHA": {
+                "description": "Development of a Simple Login using reCAPTCHA",
+                "Url": "https://github.com/MagicalStrangeQuark/reCAPTCHA"
+            },
             "scripts": {
                 "description": "Repository containing several useful scripts / small codes",
                 "Url": "https://github.com/MagicalStrangeQuark/scripts"
@@ -178,9 +194,19 @@ return {
                 "description": "SOLID Pattern Study Repository",
                 "Url": "https://github.com/MagicalStrangeQuark/SOLID"
             },
+            "TypeScript": {
+                "description": "TypeScript Study",
+                "Url": "https://github.com/MagicalStrangeQuark/TypeScript"
+            },
             "WallpaperRepository": {
                 "description": "Repository containing my wallpapers and images",
                 "Url": "https://github.com/MagicalStrangeQuark/WallpaperRepository"
+            }
+        },
+        "Pharom": {
+            "System": {
+                "description": "Refactoring of system https://www.clinicatotal.com.br using React JS",
+                "Url": "https://github.com/Pharom/System"
             }
         },
         "Weavous": {
