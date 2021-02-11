@@ -209,6 +209,18 @@ return {
             "System": {
                 "description": "Refactoring of system https://www.clinicatotal.com.br using React JS",
                 "Url": "https://github.com/Pharom/System"
+            },
+            "frontend": {
+                "description": "Front-end development",
+                "Url": "https://github.com/Pharom/frontend"
+            },
+            "backend": {
+                "description": "Back-end development",
+                "Url": "https://github.com/Pharom/backend"
+            },
+            "Workspace": {{
+                "description": "Daily Development",
+                "Url": "https://github.com/Pharom/Workspace"
             }
         },
         "Weavous": {
