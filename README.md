@@ -100,6 +100,10 @@ return {
                 "description": "Development of a login screen using Vanilla HTML",
                 "Url": "https://github.com/Fidrina/Login"
             },
+            "MontyHall": {
+                "description": "Development of a Monty Hall problem Using VueJS",
+                "Url": "https://github.com/Fidrina/MontyHall"
+            },
             "QRCode": {
                 "description": "Development of a QR Code generator in VueJS",
                 "Url": "https://github.com/Fidrina/QRCode"
