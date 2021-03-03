@@ -22,9 +22,9 @@ return {
     email: "wesleyfloresterres@gmail.com",
     languages: [
         "C/C++",
-        "ECMAScript 2016",
-        "NodeJS",
-        "PHP 7",
+        "ECMAScript 2016 + VueJS + ReactJS",
+        "NodeJS + Express",
+        "PHP 7 + Laravel + Slim",
         "Typescript"
     ],
     databases: [
