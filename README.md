@@ -19,7 +19,10 @@ return {
     country: "Brazil",
     state: "Rio Grande do Sul",
     city: "Novo Hamburgo",
-    email: "wesleyfloresterres@gmail.com",
+    email: "wesleyfloresterres@gmail.com"
+}
+
+return {
     languages: [
         "C/C++",
         "ECMAScript 2016 + VueJS + ReactJS",
@@ -33,7 +36,10 @@ return {
         "MongoDB",
         "SQLServer",
         "Redis"
-    ],
+    ]
+}
+
+return {
     repositories: [
         "Adath",
         "EasyLearnApp",
@@ -287,5 +293,4 @@ return {
         }
     ]
 };
-
 ```
