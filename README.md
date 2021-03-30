@@ -124,7 +124,7 @@ return {
             },
             "SASS": {
                 "description": "Creating a simple docs of SASS",
-                "Url": "https://github.com/Fidrina/SASS" 
+                "Url": "https://github.com/Fidrina/SASS"
             },
             "Smartphone": {
                 "description": "Development of a Smartphone using Vanilla HTML/JS",
@@ -216,14 +216,6 @@ return {
             }
         },
         "Pharom": {
-            "System": {
-                "description": "Refactoring of system https://www.clinicatotal.com.br using React JS",
-                "Url": "https://github.com/Pharom/System"
-            },
-            "frontend": {
-                "description": "Front-end development",
-                "Url": "https://github.com/Pharom/frontend"
-            },
             "backend": {
                 "description": "Back-end development",
                 "Url": "https://github.com/Pharom/backend"
@@ -282,7 +274,7 @@ return {
             }
         },
         "Zaflon": {
-            "app": { 
+            "app": {
                 "description": "E-Commerce Project Using the Laravel 8.9.0 Framework",
                 "Url": "https://github.com/Zaflon/app"
             },
