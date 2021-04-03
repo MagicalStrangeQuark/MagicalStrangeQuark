@@ -46,7 +46,6 @@ return {
         "Fidrina",
         "Gweyr",
         "MagicalStrangeQuark",
-        "Pharom",
         "Weavous",
         "Wepset",
         "Whopag",
@@ -146,6 +145,10 @@ return {
             }
         },
         "MagicalStrangeQuark": {
+            "backend": {
+                "description": "Back-end development",
+                "Url": "https://github.com/MagicalStrangeQuark/backend"
+            },
             "BAS": {
                 "description": "Repository created for the storage of IGTI Bootcamp Files",
                 "Url": "https://github.com/MagicalStrangeQuark/BAS"
@@ -213,16 +216,10 @@ return {
             "WallpaperRepository": {
                 "description": "Repository containing my wallpapers and images",
                 "Url": "https://github.com/MagicalStrangeQuark/WallpaperRepository"
-            }
-        },
-        "Pharom": {
-            "backend": {
-                "description": "Back-end development",
-                "Url": "https://github.com/Pharom/backend"
             },
-            "Workspace": {{
+            "Workspace": {
                 "description": "Daily Development",
-                "Url": "https://github.com/Pharom/Workspace"
+                "Url": "https://github.com/MagicalStrangeQuark/Workspace"
             }
         },
         "Weavous": {
