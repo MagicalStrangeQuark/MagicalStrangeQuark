@@ -25,9 +25,9 @@ return {
 return {
     languages: [
         "C/C++",
-        "ECMAScript 2016 + VueJS + ReactJS",
-        "NodeJS + Express",
-        "PHP 7 + Laravel + Slim",
+        "ECMAScript 2016 ➕ VueJS ➕ ReactJS",
+        "NodeJS ➕ Express",
+        "PHP ➕ Laravel ➕ Slim",
         "Typescript"
     ],
     databases: [
