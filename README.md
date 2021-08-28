@@ -1,15 +1,21 @@
 <h1 align="center">Wesley Flôres | System Analysis and Development Student</h1>
 
 <p align="center">
-    <img src="https://img.shields.io/badge/wesleyfloresterres@gmail.com-orange?logo=Gmail&style=flat"/>
+    <a href="#">
+        <img src="https://img.shields.io/badge/wesleyfloresterres@gmail.com-orange?logo=Gmail" alt="E-mail"/>
+    </a>
     <a href="https://www.linkedin.com/in/wesleyfloresterres/">
-        <img src="https://img.shields.io/badge/wesley--flores-orange?logo=Linkedin&style=flat"/>
+        <img src="https://img.shields.io/badge/wesley--flores-orange?logo=Linkedin" alt="Linkedin"/>
     </a>
     <a href="https://api.whatsapp.com/send?1=pt_BR&phone=5551996201475">
-        <img src="https://img.shields.io/badge/Wesley%20Fl%C3%B4res-green?logo=Whatsapp&style=flat" />
+        <img src="https://img.shields.io/badge/Wesley%20Fl%C3%B4res-green?logo=Whatsapp" alt="Whatsapp"/>
     </a>
-    <img src="https://img.shields.io/github/followers/MagicalStrangeQuark?style=social"/>
-    <img src="https://img.shields.io/github/license/MagicalStrangeQuark/MagicalStrangeQuark"/>
+    <a href="#">
+        <img src="https://img.shields.io/github/followers/MagicalStrangeQuark?style=social" alt="Followers"/>
+    </a>
+    <a href="#">
+        <img src="https://img.shields.io/github/license/MagicalStrangeQuark/MagicalStrangeQuark" alt="License"/>
+    </a>
 </p>
 
 ```typescript
@@ -21,12 +27,14 @@ return {
     city: "Novo Hamburgo",
     email: "wesleyfloresterres@gmail.com"
 }
+```
 
+```typescript
 return {
     languages: [
         "C/C++",
         "ECMAScript 2016 ➕ VueJS ➕ ReactJS",
-        "NodeJS ➕ Express",
+        "NodeJS ➕ Express ➕ AdonisJS",
         "PHP ➕ Laravel ➕ Slim",
         "Typescript"
     ],
@@ -38,7 +46,9 @@ return {
         "Redis"
     ]
 }
+```
 
+```typescript
 return {
     repositories: [
         "Adath",
@@ -69,6 +79,10 @@ return {
                 "description": "Repository containing the queries developed in PostgreSQL",
                 "Url": "https://github.com/Adath/PostgreSQL"
             },
+            "Redis": {
+                "description": "Repository containing the queries developed in Redis",
+                "Url": "https://github.com/Adath/Redis"
+            },
             "SQLServer": {
                 "description": "Repository containing the queries developed in SQLServer",
                 "Url": "https://github.com/Adath/SQLServer"
@@ -85,6 +99,10 @@ return {
             }
         },
         "Fidrina": {
+            "4-dev-react": {
+                "description": "Repositório contendo a aplicação criada durante o curso do professor Rodrigo Manguinho (Mango) na Udemy",
+                "Url": "https://github.com/Fidrina/4-dev-react"
+            },
             "Box": {
                 "description": "Development of a modal using Bootstrap 4",
                 "Url": "https://github.com/Fidrina/Box"
@@ -165,6 +183,14 @@ return {
                 "description": "Development of an Ecommerce Using the Adonis.js Framework",
                 "Url": "https://github.com/MagicalStrangeQuark/ecommerce-adonis"
             },
+            "ENEM": {
+                "description": "Repository containing exam questions",
+                "Url": "https://github.com/MagicalStrangeQuark/ENEM"
+            },
+            "InformationManagement": {
+                "description": "Repository containing important informations",
+                "Url": "https://github.com/MagicalStrangeQuark/InformationManagement"
+            },
             "JSON": {
                 "description": "Repository containing files in JSON format useful for the development of API's",
                 "Url": "https://github.com/MagicalStrangeQuark/JSON"
@@ -186,20 +212,16 @@ return {
                 "Url": "https://github.com/MagicalStrangeQuark/MagicalStrangeQuark.github.io"
             },
             "NLW2": {
-                "description": "Repository created for the second edition of the Rocketseat's NLW event",
+                "description": "Repository containing the application created in the second edition of the Rocketseat NLW event.",
                 "Url": "https://github.com/MagicalStrangeQuark/NLW2"
             },
             "NLW3": {
-                "description": "Repository created for the third edition of the Rocketseat's NLW event",
+                "description": "Repository containing the application created in the third edition of the Rocketseat NLW event.",
                 "Url": "https://github.com/MagicalStrangeQuark/NLW3"
             },
             "Physics": {
                 "description": "Physics Study",
                 "Url": "https://github.com/MagicalStrangeQuark/Physics"
-            },
-            "reCAPTCHA": {
-                "description": "Development of a Simple Login using reCAPTCHA",
-                "Url": "https://github.com/MagicalStrangeQuark/reCAPTCHA"
             },
             "scripts": {
                 "description": "Repository containing several useful scripts / small codes",
@@ -208,6 +230,10 @@ return {
             "SOLID": {
                 "description": "SOLID Pattern Study Repository",
                 "Url": "https://github.com/MagicalStrangeQuark/SOLID"
+            },
+            "typescript-app": {
+                "description": "Development of an api using Typescript",
+                "Url": "https://github.com/MagicalStrangeQuark/typescript-app"
             },
             "TypeScript": {
                 "description": "TypeScript Study",
@@ -227,9 +253,33 @@ return {
                 "description": "Development of a blog project using Laravel VIII",
                 "Url": "https://github.com/Weavous/Blog"
             },
+            "Diff": {
+                "description": "Library useful for getting an listing of differences beetwen directories",
+                "Url": "https://github.com/Weavous/Diff"
+            },
             "QuarkHelper": {
                 "description": "PHP Helpers Repository",
                 "Url": "https://github.com/Weavous/QuarkHelper"
+            },
+            "LaravelBank": {
+                "description": "Development of an API for simulating a Digital Bank functionalities",
+                "Url": "https://github.com/Weavous/LaravelBank"
+            },
+            "LaraVueCurrency": {
+                "description": "Development of an application to display currencies exchange rates",
+                "Url": "https://github.com/Weavous/LaraVueCurrency"
+            },
+            "LaraVueHotels": {
+                "description": "Development of an application to find houses for rent",
+                "Url": "https://github.com/Weavous/LaraVueHotels"
+            },
+            "LaraVueMarvel": {
+                "description": "Development of an application to find Marvel heroes",
+                "Url": "https://github.com/Weavous/LaraVueMarvel"
+            },
+            "reCAPTCHA": {
+                "description": "Development of a Simple Login using reCAPTCHA",
+                "Url": "https://github.com/Weavous/reCAPTCHA"
             },
             "Renderer": {
                 "description": "Simple HTML Component Renderer Using PHP7 and Vanilla HTML",
@@ -238,6 +288,10 @@ return {
             "Scheduling": {
                 "description": "Development of an API for scheduling medical appointments",
                 "Url": "https://github.com/Weavous/Scheduling"
+            },
+            "Screenshot": {
+                "description": "Development of an image upload via webcam",
+                "Url": "https://github.com/Weavous/Screenshot"
             },
             "SlimPHP": {
                 "description": "Repository containing an small API developed with Slim PHP",
@@ -249,15 +303,15 @@ return {
             }
         },
         "Wepset": {
-            "view": {
-                "description": "Development of the front-end screen for the project",
-                "Url": "https://github.com/Wepset/view"
-            },
-            "server": {
-                "Url": "https://github.com/Wepset/server"
+            "backend": {
+                "Url": "https://github.com/Wepset/backend"
             },
             "docs": {
                 "Url": "https://github.com/Wepset/docs"
+            },
+            "frontend": {
+                "description": "Development of the front-end screen for the project",
+                "Url": "https://github.com/Wepset/frontend"
             }
         },
         "Whopag": {
@@ -265,9 +319,13 @@ return {
                 "description": "Sample Docker docs",
                 "Url": "https://github.com/Whopag/Docker"
             },
-            "DockerPHPHelloWorld": {
+            "DockerPHPMySQL": {
+                "description": "Sample Laravel, MySQL app with Docker",
+                "Url": "https://github.com/Whopag/DockerPHPMySQL"
+            },
+            "PHPMySQL": {
                 "description": "Sample PHP Hello World app with Docker",
-                "Url": "https://github.com/Whopag/DockerPHPHelloWorld"
+                "Url": "https://github.com/Whopag/PHPMySQL"
             }
         },
         "Zaflon": {
