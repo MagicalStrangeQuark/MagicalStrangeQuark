@@ -1,4 +1,4 @@
-<h1 align="center">Wesley Flôres | System Analysis and Development Student</h1>
+<h1 align="center">Wesley Flôres | Computer Engineering Student</h1>
 
 <p align="center">
     <a href="#">
@@ -21,7 +21,7 @@
 ```typescript
 return {
     name: "Wesley Flôres",
-    description: "System Analysis and Development Student",
+    description: "Computer Engineering Student",
     country: "Brazil",
     state: "Rio Grande do Sul",
     city: "Novo Hamburgo",
