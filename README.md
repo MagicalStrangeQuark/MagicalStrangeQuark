@@ -265,6 +265,10 @@ return {
                 "description": "Development of an API for simulating a Digital Bank functionalities",
                 "Url": "https://github.com/Weavous/LaravelBank"
             },
+            "LaraVueDeveloper": {
+                "description": "Development of an API for developers to publish their portfolio",
+                "Url": "https://github.com/Weavous/LaraVueDeveloper"
+            },
             "LaraVueCurrency": {
                 "description": "Development of an application to display currencies exchange rates",
                 "Url": "https://github.com/Weavous/LaraVueCurrency"
