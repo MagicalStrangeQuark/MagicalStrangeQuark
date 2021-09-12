@@ -273,6 +273,10 @@ return {
                 "description": "Development of an application to display currencies exchange rates",
                 "Url": "https://github.com/Weavous/LaraVueCurrency"
             },
+            "LaraVueFinancing": {
+                "description": "Development of an application to simulating vehicles financing",
+                "Url": "https://github.com/Weavous/LaraVueFinancing"
+            },
             "LaraVueHotels": {
                 "description": "Development of an application to find houses for rent",
                 "Url": "https://github.com/Weavous/LaraVueHotels"
