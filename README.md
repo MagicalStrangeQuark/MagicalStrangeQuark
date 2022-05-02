@@ -1,4 +1,4 @@
-<h1 align="center">Wesley Flôres | Computer Engineering Student</h1>
+<h1 align="center">Wesley Flôres | Computer Engineer | Software Engineer</h1>
 
 <p align="center">
     <a href="#">
